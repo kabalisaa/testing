@@ -1,4 +1,4 @@
 one=45
 two=424
-
-print(one+two)
+three=424
+print(one+two+three)
